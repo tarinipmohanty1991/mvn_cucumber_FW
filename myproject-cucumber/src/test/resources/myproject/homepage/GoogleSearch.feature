@@ -1,5 +1,5 @@
 @focus
-Feature: As a customer I should be able to search the product for purchase in Amazon
+Feature: As a customer I should be able to search the product for purchase in Amazon and i am testing the application
 
 @Testgoogle
 Scenario Outline:
